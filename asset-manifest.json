@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f7hooks/static/css/main.1a8a0596.css",
+    "main.js": "/f7hooks/static/js/main.b9650315.js",
+    "index.html": "/f7hooks/index.html",
+    "main.1a8a0596.css.map": "/f7hooks/static/css/main.1a8a0596.css.map",
+    "main.b9650315.js.map": "/f7hooks/static/js/main.b9650315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.b9650315.js"
+  ]
+}
